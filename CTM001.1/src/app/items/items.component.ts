@@ -9,7 +9,7 @@ import { ItemsModal } from './modal/items.modal';
 export class ItemsComponent implements OnInit {
 
   constructor() { }
-  selected ="";
+  selected =" ";
   ngOnInit(): void {
   }
   ItemClick(select:any){
